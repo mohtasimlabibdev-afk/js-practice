@@ -29,4 +29,3 @@ document.getElementById("day").addEventListener("click", day);
 
 
 
-// counter app
