@@ -1,12 +1,11 @@
 const bulb = document.getElementById("bulb");
 
 const turnOn = () => {
-      bulb.src = "img/on.jpeg";
+      bulb.src = "img/on.jpg";
 
 };
 const turnOff = () => {
-      bulb.src = "img/off.jpeg";
-
+      bulb.src = "img/off.jpg";
 };
 document.getElementById("onBtn")
     .addEventListener("click", turnOn);

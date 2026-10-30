@@ -1,13 +1,15 @@
-button {display: block; margin: 10px auto;
-      padding: 20px 40px;
+body {
+
+      background-color: #84caa2;
+}
+button {
+      margin: 10px auto;
+      padding: 10px 40px;
       font-size: 20px;
 }
-.btnBox {
-      display: flex;
-}
+
 div {
       text-align: center;
-      margin-top: 50px;
-      border: 1px solid #ccc;
-      background-color: #ccc;
+      padding: 30px;
+      background-color: #d37878;
 }
